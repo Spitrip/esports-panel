@@ -1,0 +1,16 @@
+{
+    "name": "spitrip/esports-panel",
+    "description": "Free Content Management System for electronic sports communities.",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igors Sigalovs",
+            "email": "igor.sigalovs@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
